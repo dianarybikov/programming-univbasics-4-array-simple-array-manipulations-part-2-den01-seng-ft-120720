@@ -1,7 +1,7 @@
 def using_concat(array,array2)
   # array = my_favorite_things
-  # array2 =
-  array.concat(array)
+  # array2 = all_my_fav
+  array.concat(array2)
 end
 
 def using_insert(array, element)
