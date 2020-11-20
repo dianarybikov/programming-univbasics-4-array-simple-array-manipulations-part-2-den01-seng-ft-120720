@@ -1,5 +1,5 @@
 def using_concat(array,array)
-  # array = my
+  # array = all_my_favorite_things
   array.concat(array)
 end
 
