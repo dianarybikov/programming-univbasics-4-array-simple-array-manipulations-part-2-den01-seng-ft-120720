@@ -7,7 +7,7 @@ end
 def using_insert(array, element)
   # array = list_of_programming_languages
   # element = 'python'
-  array.insert(element)
+  array.insert(4, element)
 end
 
 def using_uniq(array)
