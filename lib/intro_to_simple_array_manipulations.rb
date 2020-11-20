@@ -5,8 +5,8 @@ def using_concat(array,array2)
 end
 
 def using_insert(array, element)
-  #
-  #
+  # array = list_of_programming_languages
+  # element = 'python'
   array.insert(element)
 end
 
